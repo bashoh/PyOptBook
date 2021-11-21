@@ -1,0 +1,12 @@
+DEBUG:root:shogommm: 1      OptimizationStatus.OPTIMAL
+2      OptimizationStatus.OPTIMAL
+3      OptimizationStatus.OPTIMAL
+4      OptimizationStatus.OPTIMAL
+5      OptimizationStatus.OPTIMAL
+                  ...            
+486    OptimizationStatus.OPTIMAL
+488    OptimizationStatus.OPTIMAL
+490    OptimizationStatus.OPTIMAL
+492    OptimizationStatus.OPTIMAL
+494    OptimizationStatus.OPTIMAL
+Name: optimal, Length: 285, dtype: object
