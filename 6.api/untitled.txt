@@ -1,0 +1,8 @@
+# How to launch web server for web app in cmd
+
+cd C:\Users\shogo\source\repos\PyOptBook\6.api\api_mip\api_mip
+set FLASK_ENV=development
+set FLASK_APP=application:app
+flask run
+
+Then go to e.g. http://localhost:5000/
